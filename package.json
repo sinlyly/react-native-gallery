@@ -22,8 +22,8 @@
     "prop-types": "*"
   },
   "dependencies": {
-    "@realgeeks/react-native-transformable-image": "0.1.1",
-    "@realgeeks/react-native-view-pager": "0.1.0",
+    "@sinlyly/react-native-transformable-image": "0.1.1",
+    "@sinlyly/react-native-view-pager": "0.1.0",
     "react-native-gesture-responder": "0.1.1"
   }
 }
