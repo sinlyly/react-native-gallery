@@ -8,22 +8,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/realgeeks/react-native-gallery.git"
+    "url": "git+https://github.com/sinlyly/react-native-gallery.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/realgeeks/react-native-gallery/issues"
+    "url": "https://github.com/sinlyly/react-native-gallery/issues"
   },
-  "homepage": "https://github.com/realgeeks/react-native-gallery#readme",
+  "homepage": "https://github.com/sinlyly/react-native-gallery#readme",
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
     "prop-types": "*"
   },
   "dependencies": {
-    "@sinlyly/react-native-transformable-image": "0.1.1",
-    "@sinlyly/react-native-view-pager": "0.1.0",
+    "react-native-transformable-image": "sinlyly/react-native-transformable-image",
+    "react-native-view-pager": "sinlyly/react-native-view-pager",
     "react-native-gesture-responder": "0.1.1"
   }
 }
