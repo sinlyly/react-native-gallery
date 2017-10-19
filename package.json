@@ -1,5 +1,5 @@
 {
-  "name": "@realgeeks/react-native-gallery",
+  "name": "react-native-gallery",
   "version": "0.1.2",
   "description": "",
   "main": "library/Gallery.js",
